@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Newton Kelvin<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Data Science<br>- ⚡ In my free time I play football</p>
+<p align="left">I'm Newton Kelvin<br><br>- 🔭 I’m working as Electronics Engineer<br>- 📚 I'm currently learning Data Science<br>- ⚡ In my free time I play football</p>
 
 ###
 
