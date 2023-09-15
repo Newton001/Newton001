@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Marius 👋</h1>
+<h1 align="center">Hey there, I'm Newton Kelvin Ollengo 👋</h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MariusBongarts&label=Profile+Views" />
@@ -6,7 +6,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 💼 Frontend Engineer @ Accenture Song
+- 💼 Electronics Engineer @ SurgeonsLab AG
 
 - 👨‍💻 Building <a href="https://web-highlights.com" target="_blank" style="color: inherit">Web Highlights</a> --> A <a href="https://chrome.google.com/webstore/detail/web-highlights-pdf-web-hi/hldjnlbobkdkghfidgoecgmklcemanhm" target="_blank" style="color: inherit">PDF & Web Highlighter Chrome extension </a>
 
