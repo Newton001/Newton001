@@ -6,71 +6,90 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/newtonkelvin/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
 </a>
-
-<a href="@newtonkelvin7309">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+<a href="https://www.youtube.com/newtonkelvin7309">
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
 </a>
-
-<a href="@Newton97Kelvin">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+<a href="https://twitter.com/Newton97Kelvin">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
 </a>
 </div>
-
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=newtonkelvin.newtonkelvin&"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello, I'm Newton Kelvin Ollengo 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me:</h3>
 
 ###
 
-<p align="left">I'm Newton Kelvin<br><br>- 🔭 I’m working as Electronics Engineer<br>- 📚 I'm currently learning Data Science<br>- ⚡ In my free time I play football</p>
+<p align="left">
+I am a highly skilled Electronics Engineer with over 4 years of experience in developing complex electronic systems and specialized knowledge in medical imaging techniques for Image Guided Therapy. My expertise spans across designing and implementing electronic systems, robust project management, and leading teams in agile environments.<br><br>
+- 🌱 Currently mastering various medical imaging techniques in Image Guided Therapy.<br>
+- 🛠️ Skilled in PCB design, microcontroller programming, and signal processing.<br>
+- 💼 Electronics Engineer at SurgeonsLab AG in Bern, Switzerland.
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Technologies and Tools:</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="Matlab logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV logo" />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">📊 My Stats:</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newtonkelvin&" alt="GitHub Streak Stats" />
 </div>
 
 ###
+
+<h3 align="left">📝 Publications:</h3>
+
+###
+
+<ul align="left">
+  <li>2022: Water Level and Quality Monitoring System Using Message Queueing and Telemetry Transport System; Nairobi, Kenya.</li>
+  <li>2022: Same as above presented at IndabaX, Malawi.</li>
+</ul>
+
+###
+
+<h3 align="left">🎓 Education:</h3>
+
+###
+
+<p align="left">
+- 📖 Master of Science in Biomedical Engineering, University of Bern – Specializing in Image-Guided Therapy.<br>
+- 🎓 Bachelor of Education in Technology (Electrical and Electronic Engineering), First Class Honors, Dedan Kimathi University of Technology, Kenya.
+</p>
+
+###
+
+
+
